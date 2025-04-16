@@ -1,4 +1,4 @@
-![Fennel Logo](fennel_logo.svg)
+<img src="fennel_logo.svg" width=200 />
 
 # Fennel 한국어 문서
 [Fennel 공식 홈페이지](https://fennel-lang.org/)의 문서를 한국어로 번역합니다.
