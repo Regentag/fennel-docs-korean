@@ -5,7 +5,7 @@
 
 ## 문서
  * The [Setup guide](https://fennel-lang.org/setup) will help you install things.
- * The [Tutorial](https://fennel-lang.org/tutorial) teaches you the basics of the language.
+ * 《[Tutorial](tutorial.md)》 문서는 언어의 기본적인 사항을 설명합니다.
  * 《[Rationale](rationale.md)》 문서는 Fennel이 만들어진 이유를 설명합니다.
  * The [Lua primer](https://fennel-lang.org/lua-primer) will catch you up if you don't already know Lua.
  * The [Reference](https://fennel-lang.org/reference) lists out all built-in forms and what they're for.
